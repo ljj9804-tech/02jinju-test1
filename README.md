@@ -1,3 +1,1 @@
-"# 02jinju-test1" 
-"# 02jinju-test1" 
-"# 02jinju-test1" 
+깃허브 연동 테스트 메모
